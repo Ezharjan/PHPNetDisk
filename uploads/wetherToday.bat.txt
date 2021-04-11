@@ -1,0 +1,5 @@
+@echo off
+
+set a=C:\"Program Files"\"Mozilla Firefox"\firefox.exe
+
+start %a% https://www.tianqi.com/beijing/today/
