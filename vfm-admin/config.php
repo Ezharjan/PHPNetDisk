@@ -3,7 +3,7 @@
  $_CONFIG = array (
   'firstrun' => false,
   'salt' => '16112202490b3e490708d4268d347851',
-  'script_url' => 'http://mm1.hkxok.cn/',
+  'script_url' => 'http://127.0.0.1/NetDisk/',
   'session_name' => 'vfm_1231631681',
   'admin_color_scheme' => 'blue',
   'align_logo' => 'center',
@@ -26,7 +26,7 @@
   'email_from' => '',
   'email_login' => 'admin',
   'email_pass' => '',
-  'enable_prettylinks' => false,
+  'enable_prettylinks' => true,
   'filedefnum' => 10,
   'filedeforder' => 'date',
   'fixed_navbar' => false,
